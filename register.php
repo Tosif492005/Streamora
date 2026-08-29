@@ -234,7 +234,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </form>
 
         <div class="extra">
-            Already have an account? <a href="login.php">Login here</a>.
+            Already have an account? <a href="login.php">Login heree</a>.
         </div>
     </div>
 </body>
