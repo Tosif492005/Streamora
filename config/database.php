@@ -1,9 +1,9 @@
 <?php
 // database.php
-$host = 'localhost';
-$user = 'root';
-$pass = '';          // your MySQL password
-$dbname = 'streamora';
+$host = '193.203.184.233';
+$user = 'u217687379_streamora';
+$pass = 'Streamora@2026';          // your MySQL password
+$dbname = 'u217687379_streamora';
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 
