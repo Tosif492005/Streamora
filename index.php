@@ -47,5 +47,3 @@ include 'includes/header.php';
         <?php endforeach; ?>
     </div>
 </section>
-
-<?php include 'includes/footer.php'; ?>
